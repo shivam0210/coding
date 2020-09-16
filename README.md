@@ -1,1 +1,1 @@
-# this is used to archive competative codes
+# This is used to archive competative codes
